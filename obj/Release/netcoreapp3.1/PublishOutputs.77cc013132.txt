@@ -1,0 +1,5 @@
+C:\Users\arauj\source\repos\ValidarCPF\bin\Release\netcoreapp3.1\publish\ValidarCPF.exe
+C:\Users\arauj\source\repos\ValidarCPF\bin\Release\netcoreapp3.1\publish\ValidarCPF.dll
+C:\Users\arauj\source\repos\ValidarCPF\bin\Release\netcoreapp3.1\publish\ValidarCPF.deps.json
+C:\Users\arauj\source\repos\ValidarCPF\bin\Release\netcoreapp3.1\publish\ValidarCPF.runtimeconfig.json
+C:\Users\arauj\source\repos\ValidarCPF\bin\Release\netcoreapp3.1\publish\ValidarCPF.pdb

@@ -1,0 +1,15 @@
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.Form1.resources
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.csproj.GenerateResource.cache
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.AssemblyInfoInputs.cache
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.AssemblyInfo.cs
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.exe
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.deps.json
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.runtimeconfig.json
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.runtimeconfig.dev.json
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.dll
+C:\Users\arauj\source\repos\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.pdb
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.dll
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.pdb
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.genruntimeconfig.cache
+C:\Users\arauj\source\repos\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.csproj.AssemblyReference.cache
